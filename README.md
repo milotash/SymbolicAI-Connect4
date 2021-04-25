@@ -7,7 +7,7 @@ AI (Minimax)
 
 Collaborators
 ---------------------------
-Anthony Nguyen [Github Profile](github.com/18anguyen33)<br />
-Kenny Chhoeun [Github Profile](github.com/lowtek232)<br />
-Ismael Garcia [Github Profile](github.com)<br />
-Javier Meza [Github Profile](github.com/javymeza10)
+Anthony Nguyen [Github Profile](https://github.com/18anguyen33)<br />
+Kenny Chhoeun [Github Profile](https://github.com/lowtek232)<br />
+Ismael Garcia [Github Profile](https://github.com)<br />
+Javier Meza [Github Profile](https://github.com/javymeza10)
